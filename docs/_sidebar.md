@@ -2,3 +2,4 @@
 
 * [readme](/)
 <!-- * [license](/license.md) -->
+* [cheatsheet](/cheatsheet.md)
